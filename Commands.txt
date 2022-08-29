@@ -3,3 +3,4 @@ step2=git status
 step four=git add -A
 step five=git commit -m "this is initial commit"
 git log
+git remote add name path
