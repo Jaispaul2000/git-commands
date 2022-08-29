@@ -1,2 +1,4 @@
 step1=git init
 step2=git status
+step four=git add -A
+step five=git commit -m
